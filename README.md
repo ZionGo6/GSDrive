@@ -2,7 +2,7 @@
 
 # GSDrive: Reinforcing Driving Policies by Multi-mode Future Trajectory Probing with 3D Gaussian Splatting Environment
 
-[Paper](https://arxiv.org/abs/2604.28111) | [ReconDreamer-RL](https://github.com/GigaAI-research/ReconDreamer-RL)
+[Paper](https://arxiv.org/abs/2604.28111)
 
 </div>
 
