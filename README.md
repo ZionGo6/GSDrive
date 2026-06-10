@@ -34,7 +34,7 @@ cd assets/third/nvdiffrast-0.3.0 && pip install -e . && cd -
 ## Dataset
 This project is based on [ReconDreamer-RL](https://github.com/GigaAI-research/ReconDreamer-RL). Download the dataset from [huggingface](https://huggingface.co/datasets/ydcttt/ReconDreamer-RL/tree/main/assets/nus).
 
-Place the downloaded dataset into the corresponding sub-folder `./assets/nus/data/` for running this code.
+Place the downloaded dataset into the corresponding sub-folder `./assets/nus/` for running this code.
 
 ## Training (`train.py`)
 `train.py` implements a **two-stage** training pipeline:
