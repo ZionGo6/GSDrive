@@ -70,4 +70,4 @@ GSDrive is inspired by the following codebase:
 
 [DiffusionDrive](https://github.com/hustvl/DiffusionDriveV2)
 
-We thank for the above great work.
+We acknowledge their great work.
