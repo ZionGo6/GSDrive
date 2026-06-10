@@ -65,7 +65,9 @@ python train.py
 GSDrive is inspired by the following codebase:
 
 [RAD](https://github.com/hustvl/RAD)
+
 [ReconDreamer-RL](https://github.com/GigaAI-research/ReconDreamer-RL)
+
 [DiffusionDrive](https://github.com/hustvl/DiffusionDriveV2)
 
 We thank for the above great work.
