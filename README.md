@@ -1,6 +1,9 @@
 <div align="center">
+
 # GSDrive: Reinforcing Driving Policies by Multi-mode Future Trajectory Probing with 3D Gaussian Splatting Environment
-[Paper](https://arxiv.org/abs/2604.28111)
+
+[Paper](https://arxiv.org/abs/2604.28111) | [ReconDreamer-RL](https://github.com/GigaAI-research/ReconDreamer-RL)
+
 </div>
 
 ## Abstract
@@ -29,7 +32,7 @@ cd assets/third/nvdiffrast-0.3.0 && pip install -e . && cd -
 ```
 
 ## Dataset
-This project is based on ![ReconDreamer-RL](https://github.com/GigaAI-research/ReconDreamer-RL). Download the dataset from ![huggingface](https://huggingface.co/datasets/ydcttt/ReconDreamer-RL/tree/main/assets/nus).
+This project is based on [ReconDreamer-RL](https://github.com/GigaAI-research/ReconDreamer-RL). Download the dataset from [huggingface](https://huggingface.co/datasets/ydcttt/ReconDreamer-RL/tree/main/assets/nus).
 
 Place the downloaded dataset into the corresponding sub-folder `./assets/nus/data/` for running this code.
 
@@ -60,7 +63,9 @@ python train.py
 
 ## Acknowledgement
 GSDrive is inspired by the following codebase:
-![RAD](https://github.com/hustvl/RAD)
-![ReconDreamer-RL](https://github.com/GigaAI-research/ReconDreamer-RL)
-![DiffusionDrive](https://github.com/hustvl/DiffusionDriveV2)
+
+[RAD](https://github.com/hustvl/RAD)
+[ReconDreamer-RL](https://github.com/GigaAI-research/ReconDreamer-RL)
+[DiffusionDrive](https://github.com/hustvl/DiffusionDriveV2)
+
 We thank for the above great work.
